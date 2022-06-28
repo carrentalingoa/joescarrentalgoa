@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /blog/wp-admin
-Disallow: /cgi-bin/
-Disallow: /tmp/
-
-Sitemap: https://www.rentmycargoa.in/sitemap.xml
